@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649096658 source:c:\users\pggas\desktop\firststepbyc\9. game of numbers\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
