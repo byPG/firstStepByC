@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650786647 source:c:\users\pggas\desktop\firststepbyc\12. calculator\calculator\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+
