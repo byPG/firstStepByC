@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650891653 source:c:\users\pggas\desktop\firststepbyc\15. read data\read data\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
