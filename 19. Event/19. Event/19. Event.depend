@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651765720 source:c:\users\pggas\desktop\firststepbyc\19. event\19. event\event.cpp
+	<iostream>
+	"event.h"
+
+1651766741 c:\users\pggas\desktop\firststepbyc\19. event\19. event\event.h
+	<iostream>
+
+1651766713 source:c:\users\pggas\desktop\firststepbyc\19. event\19. event\main.cpp
+	<iostream>
+	"event.h"
+
