@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651769650 source:c:\users\pggas\desktop\firststepbyc\20. friend function\friend function\main.cpp
+	<iostream>
+	"przyjaciele.h"
+
+1651769550 c:\users\pggas\desktop\firststepbyc\20. friend function\friend function\przyjaciele.h
+	<iostream>
+
+1651769724 source:c:\users\pggas\desktop\firststepbyc\20. friend function\friend function\przyjaciele.cpp
+	<iostream>
+	"przyjaciele.h"
+
